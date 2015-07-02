@@ -1,6 +1,12 @@
 Android StackBlur
 =================
 
+基于 StackBlur 处理一些定制图片
+
+
+Android StackBlur
+=================
+
 Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann. 
 
 The library is compatible for Android versions 1.5 (so pretty much compatible with every device).
